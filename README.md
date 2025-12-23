@@ -28,7 +28,7 @@ This project is a learning project aimed at understanding the fundamentals of Sp
 
 ## Project Structure
 
-
+```
 src/main/java/com/example/todomanager
 ├── controller
 │   └── TodoController.java
@@ -37,6 +37,7 @@ src/main/java/com/example/todomanager
 ├── model
 │   └── Todo.java
 └── TodoManagerApplication.java
+```
 
 ---
 
